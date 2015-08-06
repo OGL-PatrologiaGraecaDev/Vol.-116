@@ -1,0 +1,26 @@
+  <div class='ocr_page' id='page_1' title='image "/cluster/home/n/w/nwhite01/storage/ocr_20150623/116/njp.32101077772984/027.png"; bbox 0 0 2039 3155; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 506 180 722 246">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 506 180 722 246">
+     <span class='ocr_line' id='line_1_1' title="bbox 506 180 722 246; baseline -0.009 -6"><span class='ocrx_word' id='word_1_1' title='bbox 506 180 722 246; x_wconf 59' lang='lat'><strong>3550</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 684 254 709 279">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 684 254 709 279">
+     <span class='ocr_line' id='line_1_2' title="bbox 684 254 709 279; baseline 0 0"><span class='ocrx_word' id='word_1_2' title='bbox 684 254 709 279; x_wconf 65' lang='grc' dir='ltr'><strong><em>Ω</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 532 254 712 318">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 532 254 712 318">
+     <span class='ocr_line' id='line_1_3' title="bbox 532 254 712 318; baseline 0.028 -18"><span class='ocrx_word' id='word_1_3' title='bbox 532 254 712 318; x_wconf 59' lang='grc' dir='ltr'><strong>,ίίλῖὃ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 553 361 832 424">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 553 361 832 424">
+     <span class='ocr_line' id='line_1_4' title="bbox 553 361 832 424; baseline 0.018 -8"><span class='ocrx_word' id='word_1_4' title='bbox 553 361 579 406; x_wconf 71' lang='lat' dir='ltr'><em>V</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 624 371 832 424; x_wconf 61' lang='lat' dir='ltr'><strong>IIL,C./</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
